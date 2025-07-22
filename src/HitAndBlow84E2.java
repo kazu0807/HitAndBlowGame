@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class HitAndBlow84E2 {
 
 	public static void main(String[] args) {
+		
+		// テストコメント
 
 		int guessCount = 0;
 		final int MAX_GUESS = 10;
